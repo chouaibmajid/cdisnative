@@ -14,7 +14,7 @@ const connexion = ({navigation}) => {
       <Text>connexion</Text>
     </SafeAreaView>
   );
-};
+}
 
 export default connexion;
 
